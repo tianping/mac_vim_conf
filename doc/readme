@@ -1,0 +1,5 @@
+2014-12-31
+change to this dir
+start vim
+run "helptag ." to create/update tags file
+
